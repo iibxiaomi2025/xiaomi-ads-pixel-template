@@ -1,0 +1,5 @@
+homepage: "https://global.e.mi.com"
+documentation: "https://global.e.mi.com/doc/platform_integration/pixel.html"
+versions:
+  - sha: 2f0e62e14c07865c0388c9b73c590540b7bf4741
+    changeNotes: Initial release.
